@@ -4,7 +4,7 @@ Hello there! 👋 I'm Sabit, a fresh graduate from the department of CSE, <a hre
   
 - :telescope: Working on a couple of research projects covering Machine Learning, Computer Vision, Natural Language Processing and Software Engineering.
 - 🔍 Explore my [personal website](https://sa011.github.io) to know  about me in details.
-- 🔖 You can find all my academic codes here in my [Buet-Academics](https://github.com/SA011/BUET-Academics) reporsitory.
+- 🔖 You can find all my academic codes here in my [Buet-Academic-Coursework](https://github.com/SA011/BUET-Academic-Coursework) reporsitory.
 - ▶️ Open for collaboration on suitable CS Research. 
   
 - :mailbox: How to reach me: pritomsabit@gmail.com
