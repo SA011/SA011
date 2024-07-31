@@ -3,15 +3,11 @@
 Hello there! 👋 I'm Sabit, a fresh graduate from the department of CSE, <a href="https://www.buet.ac.bd/web/#/">Bangladesh University of Engineering & Technology</a>. I am a [Grandmaster](https://codeforces.com/profile/SA01) in Codeforces. I have participated in many national and international contests. In April 2024, I have become Asia West Champion in 46th ICPC World Final. Recently I have joined as a full-time lecturer in the department of CSE, Brac University. 
   
 - :telescope: Working on a couple of research projects covering Machine Learning, Computer Vision, Natural Language Processing and Software Engineering.
-  
-- 🔍 Check out my [personal website](https://sa011.github.io) to know  about me in details.
-  
-- ⛹️‍♀️ Open for collaboration on suitable CS Research. 
+- 🔍 Explore my [personal website](https://sa011.github.io) to know  about me in details.
+- 🔖 You can find all my academic codes here in my [Buet-Academics](https://github.com/SA011/BUET-Academics) reporsitory.
+- ▶️ Open for collaboration on suitable CS Research. 
   
 - :mailbox: How to reach me: pritomsabit@gmail.com
-
-Let's learn and grow together! 
-
 
 ---
 
