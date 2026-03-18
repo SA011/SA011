@@ -1,13 +1,14 @@
 ### About Me :
+I am Sabit, a first-year PhD student in Computer Science at Stony Brook University, advised by Dr. Akshat Dave at the Photon Intelligence Lab. My research interests lie in 3D Computer Vision, 3D Scene Understanding, and Computer Graphics with a special interest in 3D reconstruction, and 3D foundation model.
 
-Hello there! 👋 I'm Sabit, a fresh graduate from the department of CSE, <a href="https://www.buet.ac.bd/web/#/">Bangladesh University of Engineering & Technology</a>. I am a [Grandmaster](https://codeforces.com/profile/SA01) in Codeforces. I have participated in many national and international contests. In April 2024, I have become Asia West Champion in 46th ICPC World Final. Recently I have joined as a full-time lecturer in the department of CSE, Brac University. 
+Prior to joining Stony Brook, I received my B.Sc.Engg. in Computer Science and Engineering from Bangladesh University of Engineering and Technology (BUET) in July 2024, where I worked with Dr. Anindya Iqbal. I also served as a full-time Lecturer at the Department of CSE, BRAC University. Additionally, I am a [Grandmaster](https://codeforces.com/profile/SA01) in Codeforces. I have participated in many national and international contests. In April 2024, I have become Asia West Champion in 46th ICPC World Final. Recently I have joined as a full-time lecturer in the department of CSE, Brac University. 
   
 - :telescope: Working on a couple of research projects covering Machine Learning, Computer Vision, Natural Language Processing and Software Engineering.
 - 🔍 Explore my [personal website](https://sa011.github.io) to know  about me in details.
 - 🔖 You can find all my academic codes in my [Buet-Academic-Coursework](https://github.com/SA011/BUET-Academic-Coursework) reporsitory.
 - ▶️ Open for collaboration on suitable CS Research. 
   
-- :mailbox: How to reach me: pritomsabit@gmail.com
+- :mailbox: How to reach me: smosaddek@cs.stonybrook.edu
 
 ---
 
